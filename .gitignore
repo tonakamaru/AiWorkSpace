@@ -1,1 +1,4 @@
 .chatgpt-bridge.json
+history/
+probe-events.jsonl
+history-test-*.txt
